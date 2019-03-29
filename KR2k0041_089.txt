@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:16.674738
+#+DATE: 2019-03-29 20:52:18.522899
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 89
 <pb:KR2k0041_WYG_089-1a>¶
 　　欽定四庫全書¶
@@ -728,7 +728,7 @@
 ¶
 　　楊全斌妻楊氏(正定府人崇禎間冦擄不從被殺)¶
 ¶
-　　許聮昌妻石氏(正定府人冦至氏恐被汚毀容𡍼面墜樓死)¶
+　　許聮昌妻石氏(正定府人冦至氏恐被汚毀容塗面墜樓死)¶
 ¶
 　　范三樂妻王氏子婦呉氏(正定府人夫亡守節撫子成立年九十七卒長婦呉¶
 氏避兵南宮縣城破投井死)¶

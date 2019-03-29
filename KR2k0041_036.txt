@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.858134
+#+DATE: 2019-03-29 20:52:17.694039
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR2k0041_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -1194,7 +1194,7 @@
 ¶
 　　額引一千一百三十引分認京引四百一十四引¶
 ¶
-　　𣵠州¶
+　　涿州¶
 ¶
 　　額引八千七百五十引分認京引二百一十四引¶
 ¶

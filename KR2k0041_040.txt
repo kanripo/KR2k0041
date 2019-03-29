@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.922398
+#+DATE: 2019-03-29 20:52:17.762028
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 40
 <pb:KR2k0041_WYG_040-1a>¶
 　　欽定四庫全書¶
@@ -965,7 +965,7 @@
 　　本朝康熈三年設兵防守今移鎮關廂¶
 ¶
 <pb:KR2k0041_WYG_040-41a>¶
-　　劉陀店　在博野縣東又縣北有陶&KR0469;店明洪武¶
+　　劉陀店　在博野縣東又縣北有陶墟店明洪武¶
 間建舖於此¶
 ¶
 　　河間府¶

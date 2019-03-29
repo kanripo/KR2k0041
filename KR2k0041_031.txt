@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.819001
+#+DATE: 2019-03-29 20:52:17.636814
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 31
 <pb:KR2k0041_WYG_031-1a>¶
 　　欽定四庫全書¶
@@ -446,7 +446,7 @@
 據五十年丁册定為常額續生人丁永不加賦¶
 雍正元年¶
 ¶
-　　恩免覇州文安大城𣵠州房山良鄉固安永清東安香河¶
+　　恩免覇州文安大城涿州房山良鄉固安永清東安香河¶
 延慶武清寶坻玉田豐潤等十五州縣擡夫丁銀二¶
 千四百四十八兩八錢七分一釐零　又奉¶
 ¶

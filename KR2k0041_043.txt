@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.966466
+#+DATE: 2019-03-29 20:52:17.805640
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 43
 <pb:KR2k0041_WYG_043-1a>¶
 　　欽定四庫全書¶
@@ -92,7 +92,7 @@
 兩二錢九分九釐九毫四絲四忽三年裁霸保文¶
 大房固永東香懐平寳十二州縣舊額摃轎接遞¶
 等夫工食銀一千八百五十七兩五錢三分三毫¶
-六絲三纎九沙三塵四埃二年新增𣵠州良鄉夫¶
+六絲三纎九沙三塵四埃二年新增涿州良鄉夫¶
 馬工料銀三千九十六兩二錢五分六釐五年續¶
 <pb:KR2k0041_WYG_043-5a>¶
 增昌平州夫馬工料銀七百七十三兩五錢二分¶

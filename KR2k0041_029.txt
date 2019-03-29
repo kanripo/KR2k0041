@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.798183
+#+DATE: 2019-03-29 20:52:17.599162
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR2k0041_WYG_029-1a>¶
 　　欽定四庫全書¶
@@ -1436,7 +1436,7 @@
 <pb:KR2k0041_WYG_029-44b>¶
 知縣胡容重建¶
 ¶
-　　&KR0493;陽書院　在磁州西南七里明嘉靖三十年建¶
+　　滏陽書院　在磁州西南七里明嘉靖三十年建¶
 ¶
 　　元城書院　在大名府治西南明正徳十五年建祀¶
 宋劉安世¶

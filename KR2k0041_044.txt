@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.994989
+#+DATE: 2019-03-29 20:52:17.822735
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 44
 <pb:KR2k0041_WYG_044-1a>¶
 　　欽定四庫全書¶
@@ -83,7 +83,7 @@
 設舖司兵十五名每年共支銀九十兩又城東一¶
 百里有松棚舖¶
 ¶
-　　𣵠州　城北十里為湖梁舖北達　京師南為管頭¶
+　　涿州　城北十里為湖梁舖北達　京師南為管頭¶
 舖為樓桑舖為三家店舖東十里為栁窩營舖西¶
 為馬村舖又魯家莊舖路出紫荆關西南為松林¶
 店舖澤畔舖路出保定府額設舖司兵六十一名¶

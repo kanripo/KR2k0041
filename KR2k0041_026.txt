@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.756955
+#+DATE: 2019-03-29 20:52:17.540500
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR2k0041_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -424,13 +424,13 @@
 <pb:KR2k0041_WYG_026-14a>¶
 　　隂陽學　醫學　在縣治左右¶
 ¶
-　　𣵠州署在城内東南隅明洪武初建¶
+　　涿州署在城内東南隅明洪武初建¶
 ¶
 　　州判廨　在州治内¶
 ¶
 　　吏目廨　在州治内¶
 ¶
-　　𣵠鹿驛　在州治西南知州郭子治重修¶
+　　涿鹿驛　在州治西南知州郭子治重修¶
 ¶
 　　遞運所　在州治南今廢¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:15.655052
+#+DATE: 2019-03-29 20:52:17.417000
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 19
 <pb:KR2k0041_WYG_019-1a>¶
 　　欽定四庫全書¶
@@ -707,7 +707,7 @@
 ¶
 　　内邱有干言山(隋書地理志)¶
 ¶
-　　詩𨚍風出宿於干飲餞於言註適衛所經之地今¶
+　　詩弼風出宿於干飲餞於言註適衛所經之地今¶
 合為一山(正字通)¶
 ¶
 　　堯山　唐山縣西北八里有元魏武定三年殘碑所¶

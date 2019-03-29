@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畿輔通志
-#+DATE: 2019-03-29 20:52:16.176518
+#+DATE: 2019-03-29 20:52:17.976549
 #+PROPERTY: ID KR2k0041
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 56
 <pb:KR2k0041_WYG_056-1a>¶
 　　欽定四庫全書¶
@@ -195,7 +195,7 @@
 <pb:KR2k0041_WYG_056-8a>¶
 　　灤州志灤州菜山産蕨菜¶
 ¶
-　　&KR0340;¶
+　　薇¶
 ¶
 　　山藥¶
 ¶
